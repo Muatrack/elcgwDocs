@@ -10,8 +10,8 @@ Welcome to ElcGW Manual's documentation!
    :maxdepth: 1
    :caption: 电力设备功能说明:
 
-   functional/gateway/index
-   functional/subdevices/index   
+   functions/gateway/index
+   functions/subdevices/index   
 
 
 .. toctree::
