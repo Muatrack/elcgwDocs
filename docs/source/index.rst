@@ -6,6 +6,9 @@
 Welcome to ElcGW Manual's documentation!
 ========================================
 
+功能
+------
+
 .. toctree::
    :maxdepth: 1
    :caption: 电力设备功能说明:
@@ -13,12 +16,19 @@ Welcome to ElcGW Manual's documentation!
    functions/gateway/index
    functions/subdevices/index   
 
-
 .. toctree::
    :maxdepth: 1
    :caption: 电力设备开发说明:
 
    development/subdevices/index
+
+测试
+-------
+
+.. toctree::
+
+   testcases/index
+
 
 Indices and tables
 ==================
