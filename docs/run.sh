@@ -3,4 +3,4 @@ ps aux | grep 'sphinx-autobuild' | grep '/usr/bin/python3' | awk '{print $2}' | 
 
 make clean
 make html
-sphinx-autobuild --host 0.0.0.0 source build/html &
+sphinx-autobuild --host 0.0.0.0 source build/html

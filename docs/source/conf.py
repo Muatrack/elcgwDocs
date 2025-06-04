@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'ElcGW Manual'
-copyright = '2024, Muatrack'
+project = '智能电力'
+copyright = '2025, Muatrack'
 author = 'Muatrack'
 release = '1.0.0'
 
@@ -19,7 +19,7 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-language = 'zh-CN'
+language = 'zh_CN'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

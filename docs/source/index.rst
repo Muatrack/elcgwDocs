@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ElcGW documentations!
-========================================
+网关&断路器
+=========================
 
 .. toctree::
    :maxdepth: 1
