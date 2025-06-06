@@ -16,7 +16,7 @@
 断路器
 -------
 
-    .. figure:: ../_static/images/gateway/gw.jpg
+    .. figure:: ../_static/images/breaker/01.jpg
       :width: 60%
       :align: center
 
