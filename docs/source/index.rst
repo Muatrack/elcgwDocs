@@ -7,7 +7,7 @@
    functions/subdevices/index
    functions/app/index
    functions/platform/index
-   testcases/index
+   .. testcases/index
 
 Indices and tables
 ==================
