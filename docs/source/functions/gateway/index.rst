@@ -34,7 +34,7 @@
    登录网关:
       * 打开电脑浏览器，访问 http://192.168.20.1 ，将会打开网关的WEB， 如下图所示:
 
-         .. figure:: ..\\..\\_static\\images\\gateway\\weblogin.jpg
+         .. figure:: ../../_static/images/gateway/weblogin.jpg
             :width: 80%
 
          如上图所示，当在浏览器中可以看到此页面，即表示wifi-ap 连接成功。
@@ -47,7 +47,7 @@
 
    登录网关web后，单击左侧栏“参数配置”，再wifi页面中输入周边可用的WIFI名称(SSID), 输入密码, 最后单击 "提交"， 网关通过wifi连接路由器配置完毕。
             
-               .. figure:: ..\\..\\_static\\images\\gateway\\gw_network_conf.jpg
+               .. figure:: ../../_static/images/gateway/gw_network_conf.jpg
                         :width: 80%
 
    *\*注：网关连接无线路由器过程中，电脑与网关的连接可能出现短时断开(<30秒), 配网完成后，请检查电脑与网关wifi连接，确认已连接后再刷新网页。*
