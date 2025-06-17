@@ -42,7 +42,7 @@
 网络配置
 ^^^^^^^^^^
 
-   登录网关web后，单击左侧栏“参数配置”，再wifi页面中输入周边可用的WIFI名称(SSID), 输入密码, 最后单击 "提交"， 网关通过wifi连接路由器配置完毕。
+   登录网关web后，单击左侧栏“参数配置”，在WIFI页面中输入周边可用的WIFI名称(SSID), 输入密码, 最后单击 "提交"， 网关通过wifi连接路由器配置完毕。
             
                .. figure:: ../../_static/images/gateway/gw_network_conf.jpg
                         :width: 80%
