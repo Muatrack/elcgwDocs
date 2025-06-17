@@ -108,22 +108,36 @@ LED状态汇总
 网关升级
 ------------
 
-未完待续 ...
-
+      #. 进入网关，单击左侧栏"网管升级", 单击\ **选择文件**
             .. figure:: ../../_static/images/gateway/gw_upgrade_01.jpg
                :width: 80%
 
+               网关升级
+      
+      #. 选择升级文件
             .. figure:: ../../_static/images/gateway/gw_upgrade_02.jpg
                :width: 80%
-            
+
+               选择文件
+
+      #. 单击\ **升级** 按钮，等待进度条完成，等待页面提示。
             .. figure:: ../../_static/images/gateway/gw_upgrade_03.jpg
                :width: 80%
+
+               正在升级
+
+      #. 升级完成后，网关web页面弹框
             
             .. figure:: ../../_static/images/gateway/gw_upgrade_04.jpg
                :width: 80%
+
+               升级完成
             
+      #. 网关启动后，进入\ **网关升级** 页面，展示新固件版本号 即按钮\ **应用版本** 
             .. figure:: ../../_static/images/gateway/gw_upgrade_05.jpg
                :width: 80%
+
+      #. \ **应用版本**\ 按钮按下后，刚刚升级的固件生效且重启后依旧生效。如没有按下，则重启后，网关固件将回退到上一版本。
 
 定时重启
 ---------
