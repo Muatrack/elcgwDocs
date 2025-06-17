@@ -56,26 +56,25 @@
 设备管理
 -----------
 
-      * CRUD
-      * 更换(暂无)
-      * 升级
-      * 异常
-         #. 过流、过压、欠压、漏电
+CRUD
+^^^^^^^^^
 
+断路器更换
+^^^^^^^^^^^^
 
-设备配对
-^^^^^^^^^^
+断路器升级
+^^^^^^^^^^^^^
+参考\ :ref:`断路器升级`\ 
 
-    断路器接入电网后，需要与配套网关配对后才能受控于网关，受控内容包含 分合闸、特色功能使能或禁用、告警等临界值的设定，及上述所有数据的查看。
+断路器属性配置
+^^^^^^^^^^^^^^^
 
-    断路器与网关的配对需要二者通过485总线连接后操作.
-
-    操作步骤:
-    1. xx
-    #. xx
+断路器异常
+^^^^^^^^^^^^^
+   #. 过流、过压、欠压、漏电 ...
 
 LED状态汇总
------------
+--------------
 
    #. SYS灯:
       * 正常运行:
@@ -87,6 +86,24 @@ LED状态汇总
    #. SYS+NET+STATE 灯:
       * 恢复出厂: 
       * 设备重启:   
+
+网关升级
+------------
+
+            .. figure:: ../../_static/images/gateway/gw_upgrade_01.jpg
+               :width: 80%
+
+            .. figure:: ../../_static/images/gateway/gw_upgrade_02.jpg
+               :width: 80%
+            
+            .. figure:: ../../_static/images/gateway/gw_upgrade_03.jpg
+               :width: 80%
+            
+            .. figure:: ../../_static/images/gateway/gw_upgrade_04.jpg
+               :width: 80%
+            
+            .. figure:: ../../_static/images/gateway/gw_upgrade_05.jpg
+               :width: 80%
 
 定时重启
 ---------
