@@ -172,11 +172,18 @@ LED状态汇总
 #. SYS灯
 
    * 正常运行:
+      .. figure:: ../../_static/images/gateway/running.gif
+         :width: 16px
+   
    * 配对:
+      .. figure:: ../../_static/images/gateway/paring.gif
+         :width: 16px
 
 #. NET灯
    
    * 平台连接:
+      .. figure:: ../../_static/images/gateway/platform-connected.gif
+         :width: 16px
 
 #. STATE灯
 
