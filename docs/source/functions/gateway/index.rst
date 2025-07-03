@@ -167,32 +167,37 @@ CRUD
 LED状态汇总
 --------------
 
-未完待续 ...
-
 #. SYS灯
 
    * 正常运行:
       .. figure:: ../../_static/images/gateway/running.gif
-         :width: 16px
+         :width: 24px
    
    * 配对:
       .. figure:: ../../_static/images/gateway/paring.gif
-         :width: 16px
+         :width: 24px
 
 #. NET灯
-   
+
    * 平台连接:
       .. figure:: ../../_static/images/gateway/platform-connected.gif
-         :width: 16px
+         :width: 24px
 
 #. STATE灯
 
-   * AP
+   * AP 开启
+      .. figure:: ../../_static/images/gateway/red.png
+         :width: 24px      
 
 #. SYS+NET+STATE 灯
 
    * 恢复出厂: 
+      .. figure:: ../../_static/images/gateway/all_on.png
+         :height: 24px
+
    * 设备重启:   
+      .. figure:: ../../_static/images/gateway/restart.gif
+         :height: 24px
 
 网关升级
 ------------
